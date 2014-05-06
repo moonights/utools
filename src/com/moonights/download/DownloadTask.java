@@ -19,7 +19,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * 
- * @author annegu
+ * @author moonights
  * @since 2009-07-16
  * 
  */

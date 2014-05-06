@@ -2,7 +2,7 @@ package com.moonights.download.two;
 
 /**
  * 
- * @author annegu
+ * @author moonights
  * @since 2009-07-16
  *
  */
